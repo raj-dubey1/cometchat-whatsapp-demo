@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-W7wSyTde.js";import{i as t,r as n}from"./jsx-runtime-G3J4ssMs.js";/* empty css             */var r=e(t(),1),i=(0,r.createContext)({getLocalizedString:e=>n[e]??e,tDateTimeParser:e=>e?new Date(e):new Date,language:`en-us`,dateLocaleLanguage:`en-us`});function a(){return(0,r.useContext)(i)}export{a as n,i as t};

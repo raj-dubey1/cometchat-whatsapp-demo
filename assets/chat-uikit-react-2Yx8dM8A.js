@@ -1,0 +1,1 @@
+var e={};throw Error(`Could not resolve "@cometchat/calls-sdk-javascript" imported by "@cometchat/chat-uikit-react". Is it installed?`);export{e as default};

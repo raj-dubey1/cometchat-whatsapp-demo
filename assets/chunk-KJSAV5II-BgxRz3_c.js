@@ -1,0 +1,1 @@
+/* empty css             */function e(e,t,n){if(!e)return``;try{let r=e.getMetadata();if(!r||typeof r!=`object`)return``;let i=r[`@injected`];if(!i||typeof i!=`object`)return``;let a=i.extensions;if(!a||typeof a!=`object`)return``;let o=a[t];if(!o||typeof o!=`object`)return``;let s=o[n];return!s||typeof s!=`string`?``:s}catch{return``}}export{e as t};

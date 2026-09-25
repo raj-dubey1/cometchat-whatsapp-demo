@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-W7wSyTde.js";import{i as t,t as n}from"./jsx-runtime-G3J4ssMs.js";/* empty css             */var r=e(t(),1);n();var i=(0,r.createContext)({iframeDocument:null,iframeWindow:null,iframe:null}),a=()=>(0,r.useContext)(i);export{a as t};
